@@ -1,0 +1,5 @@
+{
+  "name": "Arena Solar Manager",
+  "description": "A complete beach bar and sports arena management system featuring admin dashboards, booking calendars, financial reporting, and a public-facing landing page.",
+  "requestFramePermissions": []
+}
