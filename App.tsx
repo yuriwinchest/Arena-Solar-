@@ -38,7 +38,7 @@ import {
   ChevronLeft,
   ChevronRight,
   List,
-  Grid3X3
+  Grid3x3
 } from 'lucide-react';
 import { 
   LineChart, 
@@ -360,7 +360,7 @@ const Reservations = () => {
                             onClick={() => setViewMode('grid')}
                             title="Grade"
                         >
-                            <Grid3X3 size={20} />
+                            <Grid3x3 size={20} />
                         </button>
                         <button 
                             className={`p-2 rounded ${viewMode === 'list' ? 'bg-yellow-400 text-neutral-900' : 'text-neutral-400 hover:text-white'}`}
